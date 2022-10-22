@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on React Native
 - 📫 How to reach me in Linkedin: https://www.linkedin.com/in/kevinalnizar/ 
 - 📫 Project : https://fadeintech.com/
+- 📫 Portofolio : https://kevinxcode.github.io/
 
 <!---
 kevinxcode/kevinxcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
