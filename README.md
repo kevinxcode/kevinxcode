@@ -24,6 +24,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Android Logo" width="42px">
 </p>
 
+<center>
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
+</center>
+
 <!---
 kevinxcode/kevinxcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
