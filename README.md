@@ -32,6 +32,12 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node JS" width="42px">
 
+<img src="images/Codeigniter.png" alt="Codeigniter" width="42px">
+
+<img src="images/laravel.png" alt="laravel" width="42px">
+
+<img src="images/go.png" alt="GO" width="42px">
+
 <img src="images/powerApps.png" alt="Power Apps" width="42px">
 
 <img src="images/automate.png" alt="Power Automate" width="42px">
