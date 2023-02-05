@@ -13,19 +13,35 @@
 ## Languages and Tools
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android Logo" width="42px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Android Logo" width="42px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Android Logo" width="42px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="html5 Logo" width="42px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="css 3 Logo" width="42px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="java script Logo" width="42px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="React Logo" width="42px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Kotlin Logo" width="42px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="42px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS CODE" width="42px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="42px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="42px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java script Logo" width="42px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="42px">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Node js Logo" width="42px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Android Logo" width="42px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node JS" width="42px">
+
+<img src="images/power_apps.png" alt="Power Apps" width="42px">
+
+<img src="images/automate.png" alt="Power Automate" width="42px">
+
+<img src="images/sharepoint.png" alt="Share Point" width="42px">
+
 </p>
 
 <center>
-<img src="1672280337624.gif" width="500px">
+<img src="images/1672280337624.gif" width="500px">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g" width="500px">
 
 </center>
