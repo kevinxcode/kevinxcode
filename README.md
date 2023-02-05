@@ -41,8 +41,8 @@
 </p>
 
 <center>
-<img src="images/1672280337624.gif" width="500px">
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g" width="500px">
+<img src="images/1672280337624.gif" width="50%">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g" width="50%">
 
 </center>
 
