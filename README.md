@@ -1,5 +1,6 @@
 # Hi, I'm Kevin Alnizar - [kevinXcode](https://kevinxcode.github.io/) 👋
 ![](https://komarev.com/ghpvc/?username=kevinxcode&color=blue&style=for-the-badge)
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 - 👀 I’m interested in Software Enggineer 
 - 🌱 I’m currently learning everything 😅
 - 🌱 I’m currently learning React Native
