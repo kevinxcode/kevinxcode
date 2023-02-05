@@ -32,7 +32,7 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node JS" width="42px">
 
-<img src="images/power_apps.png" alt="Power Apps" width="42px">
+<img src="images/powerApps.png" alt="Power Apps" width="42px">
 
 <img src="images/automate.png" alt="Power Automate" width="42px">
 
