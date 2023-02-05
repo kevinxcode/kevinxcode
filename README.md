@@ -12,7 +12,7 @@
 - 📫 Portofolio : https://kevinxcode.github.io/
 
 ## Languages and Tools
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android Logo" hspace="3" width="42px">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" hspace="3" width="42px">
@@ -56,7 +56,7 @@
 <break>
 
 
-<p>
+<p align="center">
 <img src="images/1672280337624.gif" hspace="2" width="48%">
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g" hspace="2" width="48%">
 </p>
