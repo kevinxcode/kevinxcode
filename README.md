@@ -13,43 +13,43 @@
 
 ## Languages and Tools
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android Logo" hspace="3" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android Logo" hspace="3" vspace="3" width="42px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" hspace="3" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" hspace="3" vspace="3" width="42px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" hspace="3" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" hspace="3" vspace="3" width="42px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS CODE" hspace="3" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS CODE" hspace="3" vspace="3" width="42px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" hspace="3" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" hspace="3" vspace="3" width="42px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" hspace="3" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" hspace="3" vspace="3" width="42px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="java script Logo" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" hspace="3" vspace="3" alt="java script Logo" width="42px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" hspace="3" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" hspace="3" vspace="3" width="42px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Node js Logo" hspace="3" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Node js Logo" hspace="3" vspace="3" width="42px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node JS" hspace="3" width="42px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node JS" hspace="3" vspace="3" width="42px">
 
-<img src="images/Codeigniter.png" hspace="3" alt="Codeigniter" width="42px">
+<img src="images/Codeigniter.png" hspace="3" vspace="3" alt="Codeigniter" width="42px">
 
-<img src="images/laravel.png" hspace="3" alt="laravel" width="42px">
+<img src="images/laravel.png" hspace="3" vspace="3" alt="laravel" width="42px">
 
-<img src="images/go.png" hspace="3" alt="GO" width="42px">
+<img src="images/go.png" hspace="3" vspace="3" alt="GO" width="42px">
 
-<img src="images/powerApps.png" hspace="3" alt="Power Apps" width="42px">
+<img src="images/powerApps.png" hspace="3" vspace="3" alt="Power Apps" width="42px">
 
-<img src="images/automate.png" hspace="3" alt="Power Automate" width="42px">
+<img src="images/automate.png" hspace="3" vspace="3" alt="Power Automate" width="42px">
 
-<img src="images/sharepoint.png" hspace="3" alt="Share Point" width="42px">
+<img src="images/sharepoint.png" hspace="3" vspace="3" alt="Share Point" width="42px">
 
-<img src="images/postgreSQL.png" hspace="3" alt="Postgre SQL" width="42px">
+<img src="images/postgreSQL.png" hspace="3" vspace="3" alt="Postgre SQL" width="42px">
 
-<img src="images/Azure-SQL-Database.png" hspace="3" alt="Azure-SQL-Database" width="42px">
+<img src="images/Azure-SQL-Database.png" vspace="3" hspace="3" alt="Azure-SQL-Database" width="42px">
 
-<img src="images/MySQL.png" alt="MySQL" hspace="3" width="42px">
+<img src="images/MySQL.png" alt="MySQL" hspace="3" vspace="3" width="42px">
 
 </p>
 
