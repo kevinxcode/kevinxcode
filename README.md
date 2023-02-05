@@ -38,6 +38,12 @@
 
 <img src="images/sharepoint.png" alt="Share Point" width="42px">
 
+<img src="images/postgreSQL.png" alt="Postgre SQL" width="42px">
+
+<img src="images/Azure-SQL-Database.png" alt="Azure-SQL-Database" width="42px">
+
+<img src="images/MySQL.png" alt="MySQL" width="42px">
+
 </p>
 
 <p>
