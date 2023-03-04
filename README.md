@@ -58,7 +58,7 @@
 
 <p align="center">
 <img src="images/1672280337624.gif" hspace="3" width="48%">
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g" hspace="3" width="48%">
+<img src="images/computer.gif" hspace="3" width="48%">
 </p>
 
 > Please Follow and visit my Profile.
