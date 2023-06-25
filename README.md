@@ -10,6 +10,7 @@
 - 📫 How to reach me in Linkedin: https://www.linkedin.com/in/kevinalnizar/ 
 - 📫 Project : https://fadeintech.com/
 - 📫 Portofolio : https://kevinxcode.github.io/
+- 📫 Publish APP : https://kevinxcode.github.io/publish-app/
 
 ## Languages and Tools
 <p align="center">
